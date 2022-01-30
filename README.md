@@ -1,2 +1,2 @@
-# omicronium-dev.github.io
-omicronium-dev website
+# omicronium.dev
+Próximamente aquí, el sitio web para proyectos OSS de Omicronium SC.
